@@ -1,63 +1,52 @@
-<h1 align="center">👋 Hi, I'm Abhinav Kumar Yadav</h1>
+<h1 align="center">Hi 👋, I'm Abhinav Kumar Yadav</h1>
 
 <p align="center">
-🎓 Final Year CSE Undergrad at <strong>NIT Bhopal (MANIT'26)</strong><br>
-💻 Passionate about <strong>Web Development</strong> & <strong>Machine Learning</strong><br>
-🚀 Solved <strong>750+ problems</strong> across LeetCode, GeeksforGeeks, and Codeforces
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F7941E&center=true&vCenter=true&width=435&lines=Full+Stack+MERN+Developer;Machine+Learning+Enthusiast;Competitive+Programmer;Tech+Enthusiast" alt="Typing SVG" />
 </p>
 
 ---
 
-## 🛠️ Tech Stack
-
-### 🌐 Frontend  
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" alt="Frontend stack" />
-
-### 🛢️ Backend  
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" alt="Backend stack" />
-
-### 🤖 ML & Programming  
-<img src="https://skillicons.dev/icons?i=python" alt="ML stack" /> &nbsp; Pandas • Scikit-learn • TensorFlow
-
-### ⚙️ Tools  
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" alt="Tools" />
+🎓 **Computer Science '26 @ NIT Bhopal**  
+💻 Full Stack MERN Developer | 💡 ML Enthusiast  
+🧠 Passionate about DSA, Development, and Problem Solving
 
 ---
 
-## 📊 Problem Solving
-
-- 🟧 <strong>LeetCode:</strong> [leetcode.com/u/Abhinav112005](https://leetcode.com/u/Abhinav112005/)  
-- 🟩 <strong>GFG:</strong> [geeksforgeeks.org/user/abhinavkumatgv2](https://www.geeksforgeeks.org/user/abhinavkumatgv2/)  
-- 🔵 <strong>Codeforces:</strong> [codeforces.com/profile/Abhinav_Yadav112005](https://codeforces.com/profile/Abhinav_Yadav112005)  
-- 🧠 Strong grasp of <strong>Data Structures & Algorithms</strong>
-
----
-
-## 📌 Projects
-
-🚧 Currently working on exciting **MERN** and **ML-based** projects – more coming soon!
-
----
-
-## 📈 GitHub Stats
+### 🚀 Tech Stack
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abhinav112005&show_icons=true&theme=github_dark&hide_title=true" width="47%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhinav112005&theme=github-dark-blue" width="47%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinav112005&layout=compact&theme=github_dark" width="47%" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,express,js,ts,html,css,tailwind,git,github,cpp,python" />
 </p>
 
 ---
 
-## 📫 Let's Connect!
+### 📊 GitHub Stats
 
-- 📧 Email: **abhinavkumaryadav112005@gmail.com**  
-- 💼 LinkedIn: [linkedin.com/in/your-link-here](https://www.linkedin.com/) <!-- Replace with your actual LinkedIn URL -->
-<!-- - 🌐 Portfolio: [your-portfolio-link.com](https://your-portfolio-link.com) -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Abhinav112005&show_icons=true&theme=tokyonight" alt="Abhinav's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Abhinav112005&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhinav112005&theme=react-dark" />
+</p>
 
 ---
 
-<p align="center"><em>“Consistency is what transforms average into excellence.”</em></p>
+### 📫 Connect with me
+
+<p align="center">
+  <a href="https://linkedin.com/in/abhinav112005"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" /></a>
+  <a href="mailto:abhinav112005@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?logo=gmail&style=for-the-badge" /></a>
+  <a href="https://github.com/Abhinav112005"><img src="https://img.shields.io/badge/GitHub-black?logo=github&style=for-the-badge" /></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
+</p>
+
